@@ -67,6 +67,7 @@ motto: "Automate everything. If it can't be automated, build an AI to do it."
 ### 🧠 GenAI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-FF4088?style=flat-square&logoColor=white)
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A154B?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)

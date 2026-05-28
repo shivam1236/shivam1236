@@ -15,15 +15,21 @@
 
 ```yaml
 name: Shivam Shukla
-role: Senior MLOps Engineer
-experience: 5+ years
+role: Senior MLOps Engineer  # yes, I deploy models that actually work in prod
+experience: 6+ years of convincing machines to behave
+superpower: Turning "it works on my laptop" into "it works everywhere"
 domains:
-  - MLOps & ML Platform Engineering
-  - AIOps & Intelligent Monitoring
-  - DevOps & Cloud Infrastructure
-  - Generative AI & LLM Applications
-currently_exploring: LLM Agents, RAG Pipelines, AI-driven Infrastructure
-motto: "Automate everything. If it can't be automated, build an AI to do it."
+  - MLOps → because someone has to put ML models in production
+  - AIOps → teaching AI to fix what AI broke
+  - DevOps → I automate myself out of jobs, then create new ones
+  - GenAI → making LLMs do my bidding (mostly)
+currently_breaking: LLM Agents, RAG Pipelines, AI-driven Infrastructure
+fun_facts:
+  - My Kubernetes clusters have more uptime than my sleep schedule
+  - I mass-produce YAML files faster than a GPT hallucinates
+  - "It works on my machine" is not in my vocabulary
+  - I talk to terminals more than I talk to people
+motto: "If you're doing it twice, you're doing it wrong. Automate it."
 ```
 
 ---

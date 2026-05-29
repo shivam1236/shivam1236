@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphrworern/gluber/main/gifs/Hi.gif" width="30px" /> &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=435&lines=Namaste🙏+there!+I'm+Shivam+Shukla;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/ABSphrworern/gluber/main/gifs/Hi.gif" width="30px" /> &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&lines=Namaste+%F0%9F%99%8F+there!+I'm+Shivam+Shukla;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&random=false&width=600&lines=MLOps+Engineer+%7C+AIOps+%7C+DevOps+%7C+GenAI+Enthusiast;Building+ML+Pipelines+that+actually+ship+to+prod;Automating+everything+you+thought+couldn't+be+automated;Teaching+AI+to+fix+what+AI+broke" alt="Typing SVG" />
 

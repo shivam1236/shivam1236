@@ -40,7 +40,7 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 
 <div align="center">
 
-### 🤖 MLOps & AI/ML
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25px" /> MLOps & AI/ML
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
@@ -50,7 +50,7 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### 🏗️ DevOps & Infrastructure
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25px" /> DevOps & Infrastructure
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
@@ -60,19 +60,19 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### ☁️ Cloud Platforms
+### <img src="https://media.giphy.com/media/lr7dSPghETVfi/giphy.gif" width="25px" /> Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 📊 AIOps & Monitoring
+### <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="25px" /> AIOps & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
 
-### 🧠 GenAI & LLMs
+### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25px" /> GenAI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -80,7 +80,7 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 ![Vector DBs](https://img.shields.io/badge/Vector_DBs-4A154B?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-### 💻 Languages & Frameworks
+### <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25px" /> Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -113,16 +113,11 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivam1236&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1236&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1236&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" width="35%" />
+<img src="https://raw.githubusercontent.com/shivam1236/shivam1236/output/stats-card.svg" width="60%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam1236&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivam1236&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="90%" />
+<img src="https://streak-stats.demolab.com/?user=shivam1236&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&sideNums=F8D866&dates=FFFFFF&stroke=0D1117" width="60%" />
 
 <br/>
 

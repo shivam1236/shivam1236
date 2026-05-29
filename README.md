@@ -112,11 +112,6 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25px" /> GitHub Stats
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/shivam1236/shivam1236/output/stats-card.svg" width="60%" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=shivam1236&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=F8D866&currStreakLabel=F85D7F&sideLabels=F85D7F&sideNums=F8D866&dates=FFFFFF&stroke=0D1117" width="60%" />
 
 <br/>

@@ -1,22 +1,24 @@
 <div align="center">
 
-# Namaste🙏! I'm Shivam Shukla 👋
+<img src="https://raw.githubusercontent.com/ABSphrworern/gluber/main/gifs/Hi.gif" width="30px" /> &nbsp; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=435&lines=Namaste🙏+there!+I'm+Shivam+Shukla;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
-### `MLOps Engineer` | `AIOps` | `DevOps` | `GenAI Enthusiast`
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&random=false&width=600&lines=MLOps+Engineer+%7C+AIOps+%7C+DevOps+%7C+GenAI+Enthusiast;Building+ML+Pipelines+that+actually+ship+to+prod;Automating+everything+you+thought+couldn't+be+automated;Teaching+AI+to+fix+what+AI+broke" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-shukla-6442b915a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam1236)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivam1236)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" /> About Me
 
 ```yaml
 name: Shivam Shukla
 role: Senior MLOps Engineer  # yes, I deploy models that actually work in prod
-experience: 6+ years of convincing machines to behave
+experience: 5+ years of convincing machines to behave
 superpower: Turning "it works on my laptop" into "it works everywhere"
 domains:
   - MLOps → because someone has to put ML models in production
@@ -34,13 +36,14 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 
 ---
 
-## ⚡ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px" /> Tech Arsenal
 
 <div align="center">
 
 ### 🤖 MLOps & AI/ML
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -65,7 +68,9 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 ### 📊 AIOps & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
 
 ### 🧠 GenAI & LLMs
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -87,7 +92,7 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 
 ---
 
-## 🔥 What I Do
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" /> What I Do
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -104,8 +109,10 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="25px" /> GitHub Stats
+
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=shivam1236&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam1236&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" width="48%" />
 
@@ -116,6 +123,14 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam1236&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=shivam1236&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" width="90%" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivam1236/shivam1236/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivam1236/shivam1236/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shivam1236/shivam1236/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -151,12 +166,14 @@ motto: "If you're doing it twice, you're doing it wrong. Automate it."
 
 <div align="center">
 
-### 📫 Let's Connect!
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px" /> Let's Connect!
 
 If you're working on MLOps, AIOps, or GenAI — let's collaborate!
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivam1236&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shivam1236&color=blueviolet&style=flat-square&label=Profile+Stalkers)
 
-⭐ *Star my repos if you find them useful!*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=435&lines=%E2%AD%90+Star+my+repos+if+you+find+them+useful!;%F0%9F%94%A5+Let's+build+something+awesome+together!" alt="Typing SVG" />
 
 </div>
